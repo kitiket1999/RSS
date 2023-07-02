@@ -34,3 +34,11 @@ git branch -D название ветки //удаляет локальную в
 //Merge - слияние, перенос из одной ветки в другую.
 //Deploy - размещение на платформе. В нашем случае - github.
 //Deploy to gh-pages https://www.youtube.com/watch?v=0lvKcqP3aP0&ab_channel=RollingScopesSchool
+
+
+**rebase: tutorial**
+<!-- Roman (@EternalRival) — Сегодня, в 8:48
+обрати внимание, что указывать нужно коммит, который находится раньше того, что необходимо изменить
+интерактивный rebase - мощный инструмент. коммиты можно не только переименовывать, но и удалять, склеивать и т.п. -->
+https://eternalrival.notion.site/Rebase-tutorial-694c542f037a49b8ac5dc472defb25ea
+********************

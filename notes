@@ -31,6 +31,9 @@ git cherry-pick номер коммита (позволяет забрать л�
 git branch -D название ветки //удаляет локальную ветку
 git push origin --delete название ветки //удаляет remote ветку
 
+git rebase -i 
+// https://www.youtube.com/live/4Zj7tRlQJao?feature=share&t=7127
+
 //Merge - слияние, перенос из одной ветки в другую.
 //Deploy - размещение на платформе. В нашем случае - github.
 //Deploy to gh-pages https://www.youtube.com/watch?v=0lvKcqP3aP0&ab_channel=RollingScopesSchool
@@ -42,6 +45,7 @@ git push origin --delete название ветки //удаляет remote в�
 интерактивный rebase - мощный инструмент. коммиты можно не только переименовывать, но и удалять, склеивать и т.п. -->
 https://eternalrival.notion.site/Rebase-tutorial-694c542f037a49b8ac5dc472defb25ea
 *********************************************************************************************
+//rebase -i : https://www.youtube.com/watch?v=4Zj7tRlQJao&t=7127s&ab_channel=RollingScopesSchool
 **Markdown**
 Пример:
 //зададим пункт списка
@@ -53,3 +57,4 @@ Example:
 **_&nbsp; Works in demo mode. Most of functions are disabled now.\
 &nbsp; Subject: virtual gift card creation._**
 *********************************************************************************************
+
